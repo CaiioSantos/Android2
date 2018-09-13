@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyFirebase2</string>
+    <string name="edtNome" />
+    <string name="edtEmail" />
+</resources>
