@@ -2,4 +2,7 @@
     <string name="app_name">MyFirebase2</string>
     <string name="edtNome" />
     <string name="edtEmail" />
+    <string name="btnCadastrar">Cadastrar</string>
+    <string name="btnAlterar">Alterar</string>
+    <string name="btnDeletar">Deletar</string>
 </resources>
